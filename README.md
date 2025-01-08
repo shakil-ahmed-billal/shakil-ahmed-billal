@@ -1,3 +1,4 @@
+![Github Banner](assets/coverImage.jpg)
 🛠️ Technologies & Tools 🛠️
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,js,react,firebase,nodejs,express,mongodb,vscode&perline=6" /> </div>
