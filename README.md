@@ -1,4 +1,7 @@
 ![Github Banner](assets/coverImage.jpg)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=MERN+Stack+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
+</h1>
 🛠️ Technologies & Tools 🛠️
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,js,react,firebase,nodejs,express,mongodb,vscode&perline=6" /> </div>
