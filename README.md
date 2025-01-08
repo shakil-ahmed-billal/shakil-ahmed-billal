@@ -1,6 +1,6 @@
 🛠️ Technologies & Tools 🛠️
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,git,tailwind,linux,vscode&perline=6" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,js,react,firebase,nodejs,express,mongodb,vscode&perline=6" /> </div>
 
 
 📊 GitHub Statistics 📊
