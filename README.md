@@ -10,7 +10,7 @@
   
 🛠️ Technologies & Tools 🛠️
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,js,ts,react,next,firebase,nodejs,express,mongodb,vscode&perline=7" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,js,ts,react,next,firebase,nodejs,express,mongodb,postgresql,prisma,mysql,go,docker,nginx,aws,redux&perline=10" /> </div>
 
 
 📊 GitHub Statistics 📊
